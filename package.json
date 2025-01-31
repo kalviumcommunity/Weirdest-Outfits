@@ -1,0 +1,19 @@
+{
+  "name": "weirdest-outfits-3",
+  "version": "1.0.0",
+  "description": "The Weirdest Outfits Leaderboard is a fun, interactive platform where users can log in to submit, rank, and comment on bizarre and unconventional outfits. Each user gets a unique leaderboard featuring their contributions and the rankings of other users' weird outfits. The project blends humor and creativity while demonstrating a strong proof of work across all course concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/Weirdest-Outfits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/Weirdest-Outfits/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/Weirdest-Outfits#readme"
+}
